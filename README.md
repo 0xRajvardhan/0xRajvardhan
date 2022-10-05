@@ -14,7 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj7dev&show_icons=true&locale=en" alt="raj7dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj7dev& theme=dark&hide" alt="raj7dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj7dev&" alt="raj7dev" /></p>
-
+<div align='center' width="6rem">
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=priyanshu0931&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="Dhruvraj  github stats" />
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=priyanshu0931&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
+</div>
