@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj7dev& theme=dark&hide" alt="raj7dev" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj7dev&" alt="raj7dev" /></p>
+
