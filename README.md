@@ -12,9 +12,9 @@
 
 <p> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raj7dev&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376" alt="raj7dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj7dev&show_icons=true&locale=en" alt="raj7dev" /></p>
+
 
 <div align='center' width="6rem">
-    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=priyanshu0931&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="Dhruvraj  github stats" />
-    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=priyanshu0931&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=Raj7Dev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="Raj7Dev  github stats" />
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Raj7Dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
 </div>
