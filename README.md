@@ -16,8 +16,8 @@
 
 
 <div align='center' width="6rem">
-    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=raj7dev&theme=jolly&show_icons=true" />
-    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=raj7dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=raj7dev&theme=jolly&show_icons=true"/>
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Raj7Dev&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
 
 #
