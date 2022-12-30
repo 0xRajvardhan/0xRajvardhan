@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=150 width=250 align = right src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **rajvardhans2003@gmail.com**
 
