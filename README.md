@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan</h1>
 <h3 align="center">A learner and developer from India</h3>
-<img alt="Coder GIF" height=150 width=250 align = right src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<!-- <img alt="Coder GIF" height=150 width=250 align = right src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> -->
 
 
 - 🌱 I’m currently learning **DevOps**
