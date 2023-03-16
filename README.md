@@ -5,11 +5,12 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📫 How to reach me **rajvardhans2003@gmail.com**
+- 📫 How to reach me **singhrajvardhan2003@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,figma,nodejs,express,pug,mongodb" >
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,java,nextjs,threejs,ts" > <!-- ,react,nodejs,express,js,mongodb,tailwind,vite -->
 </p>
 
 <!-- <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Raj7Dev&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p> -->
