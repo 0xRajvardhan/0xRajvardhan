@@ -10,7 +10,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,java,tensorflow,nextjs,threejs,ts" > <!-- ,react,nodejs,express,js,mongodb,tailwind,vite -->
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,java,tensorflow,nextjs,nodejs,ts" > <!-- ,react,nodejs,express,js,mongodb,tailwind,vite -->
 </p>
 
 <!-- <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Raj7Dev&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p> -->
