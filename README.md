@@ -13,14 +13,14 @@
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,java,tensorflow,nextjs,nodejs,ts" > <!-- ,react,nodejs,express,js,mongodb,tailwind,vite -->
 </p>
 
-<!-- <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Raj7Dev&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p> -->
+<!-- <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=0xRajvardhan&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p> -->
 
 
 
 <div align='center' width="6rem">
-    <img  width="350px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raj7dev&theme=jolly&layout=compact&langs_count=10&hide=html,pug,python"/>
-<!--     <img  width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=raj7dev&theme=jolly&show_icons=true"/> -->
-    <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=Raj7Dev&theme=jolly&border_radius=5" alt= "stats"/>
+    <img  width="350px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=0xRajvardhan&theme=jolly&layout=compact&langs_count=10&hide=html,pug,python"/>
+<!--     <img  width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=0xRajvardhan&theme=jolly&show_icons=true"/> -->
+    <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=0xRajvardhan&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
 
 #
