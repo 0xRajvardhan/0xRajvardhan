@@ -3,7 +3,7 @@
 <!-- <img alt="Coder GIF" height=150 width=250 align = right src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> -->
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning about **Web3 and Blockchains**
 
 - 📫 How to reach me **singhrajvardhan2003@gmail.com**
 
