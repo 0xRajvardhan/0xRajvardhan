@@ -18,9 +18,9 @@
 
 
 <div align='center' width="6rem">
-    <img  width="350px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=0xRajvardhan&theme=jolly&layout=compact&langs_count=10&hide=html,pug,python"/>
+    <img  width="350px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=0xRajvardhan&theme=transparent&layout=compact&langs_count=10&hide=html,pug,python"/>
 <!--     <img  width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=0xRajvardhan&theme=jolly&show_icons=true"/> -->
-    <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=0xRajvardhan&theme=jolly&border_radius=5" alt= "stats"/>
+<!--     <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=0xRajvardhan&theme=jolly&border_radius=5" alt= "stats"/> -->
 </div>
 
 #
