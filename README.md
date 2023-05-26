@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rajvardhan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Rajvardhan</h1> -->
 <h3 align="center">A learner and developer from India</h3>
 <!-- <img alt="Coder GIF" height=150 width=250 align = right src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> -->
 
 
 - 🌱 I’m currently learning about **Web3 and Blockchains**
 
-- 📫 How to reach me **singhrajvardhan2003@gmail.com**
+-  How to reach me **singhrajvardhan2003@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 
