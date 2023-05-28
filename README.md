@@ -2,13 +2,15 @@
 - - -
   Rajvardhan Singh Dodiya
 - - - 
+
 <h3 align="center">A learner and developer from India</h3>
 <!-- <img alt="Coder GIF" height=150 width=250 align = right src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> -->
 
-
+- - -
 - 🌱 I’m currently learning about **Web3 and Blockchains**
 
 -  How to reach me **singhrajvardhan2003@gmail.com**
+- - - 
 
 <!-- - - -
   Rajvardhan Singh Dodiya
