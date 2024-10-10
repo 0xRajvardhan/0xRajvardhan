@@ -1,26 +1,10 @@
-<!-- <h1 align="center">Hi 👋, I'm Rajvardhan</h1> -->
-- - -
-  Rajvardhan Singh Dodiya
-- - - 
-
-<h3 align="center">A learner and developer from India</h3>
-<!-- <img alt="Coder GIF" height=150 width=250 align = right src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> -->
-
-
-- 🌱 I’m currently learning about **Web3 and Blockchains**
-
--  How to reach me **singhrajvardhan2003@gmail.com**
-
-<!-- - - -
-  Rajvardhan Singh Dodiya
-- - -  -->
-
+## Hi, I am Rajvardhan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="1px" height="30px" >
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,ts,nextjs,rust,appwrite,java,cpp" > <!-- ,react,nodejs,express,js,mongodb,tailwind,vite -->
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://skillicons.dev/icons?i=solidity,ts,nextjs,rust,appwrite,java,cpp" > <!-- ,react,nodejs,express,js,mongodb,tailwind,vite --> 
+<!-- </p> -->
 
 <!-- <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=0xRajvardhan&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p> -->
 
