@@ -1,11 +1,29 @@
-## Hi, I am Rajvardhan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="1px" height="30px" >
+# Hey there! 👋 I'm Rajvardhan Singh  
 
+🚀 Passionate Programmer | Full Stack Developer | Sport Shooter  
 
+## 🔥 About Me  
+I'm a full-stack developer who loves building scalable and efficient systems. I thrive on learning new technologies and solving complex problems. Currently, I'm part of the **100x Devs Cohort**, sharpening my skills in system design and distributed architectures.  
 
+## ⚡ Tech Stack  
+💻 **Languages & Frameworks**: TypeScript, JavaScript, Node.js, Next.js, Express.js  
+🛠 **Tools & Libraries**: Recoil, Zod, TailwindCSS, Docker, Kubernetes  
+📦 **Databases**: MongoDB, PostgreSQL  
+⚡ **Messaging & Streaming**: Kafka  
 
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://x.com/rajvardhansd" target="_blank">
-    <img alt="X.com" src="https://img.shields.io/badge/(Twitter)-black?style=flat-square&logo=x&logoColor=white" />
-  </a>
-</p>
+## 🎯 What I’m Up To  
+- Learning **System Design** to architect scalable applications  
+- Experimenting with **Kubernetes & Docker** for containerized deployments  
+- Building cool projects like **[Youtoob](https://github.com/your-github/youtoob)** 🎬  
+
+## 📌 Featured Project: Youtoob  
+A YouTube clone with a seamless UI, robust backend, and real-time features. Check it out **[here](https://github.com/your-github/youtoob)**!  
+
+## 🎯 Fun Fact  
+When I’m not coding, you’ll probably find me **sport shooting**! 🎯🏅  
+
+## 📫 Let's Connect!  
+- 🐦 Twitter: [@rajvardhansd](https://twitter.com/rajvardhansd)  
+- 💼 LinkedIn: [Rajvardhan Singh Dodiya](https://www.linkedin.com/in/rajvardhan-singh-dodiya/)  
+
+Let's build something amazing together! 🚀  
