@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rajvardhan Singh Dodiya
+# Hey there! 👋 I'm Rajvardhan Singh 
 
 🚀 Passionate Programmer | Full Stack Developer | Sport Shooter  
 
