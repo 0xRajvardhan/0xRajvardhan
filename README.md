@@ -1,4 +1,4 @@
-### Rajvardhan Singh  
+### Rajvardhan Singh 🍉
 
 👨‍💻 Full-Stack Dev | 100x Devs  
 🚀 Web, Systems & Blockchain  
