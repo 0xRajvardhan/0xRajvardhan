@@ -1,7 +1,7 @@
 ### Rajvardhan Singh  
 
 👨‍💻 Full-Stack Dev | 100x Devs  
-🚀 Web, Systems & Crypto  
+🚀 Web, Systems & Blockchain  
 
 ⚡ Notable: [Youtoob](https://github.com/0xRajvardhan/Youtoob) | [Transaction App](https://github.com/0xRajvardhan/transaction-App)  
 
