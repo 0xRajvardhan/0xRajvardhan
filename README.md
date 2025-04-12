@@ -7,4 +7,4 @@
 
 💬 Let’s connect: [Twitter](https://twitter.com/rajvardhansd) | [LinkedIn](https://www.linkedin.com/in/rajvardhan-singh-dodiya)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xRajvardhan&theme=highcontrast&hide_border=true&border_radius=60)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xRajvardhan&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
