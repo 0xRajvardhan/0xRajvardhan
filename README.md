@@ -5,7 +5,7 @@
 
 ⚡ Notable: [DePIN-Uptime](https://github.com/0xRajvardhan/DePIN-Uptime) | [Transaction App](https://github.com/0xRajvardhan/transaction-App)  
 
-🌐 Portfolio: [rajvardhan.dev](https://rajvardhan.vercel.app)
+🌐 Portfolio: [rajvardhan.vercel.app](https://rajvardhan.vercel.app)
 
 💬 Let’s connect: [Twitter](https://twitter.com/rajvardhansd) | [LinkedIn](https://www.linkedin.com/in/rajvardhan-singh-dodiya)  
 
