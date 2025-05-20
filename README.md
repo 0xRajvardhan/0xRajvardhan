@@ -1,6 +1,6 @@
 ### Rajvardhan Singh 🍉
 
-👨‍💻 Full-Stack Dev | Freelancer | 100x Devs  | Turbin3 Q2 Builder's Cohort Grad   
+👨‍💻 Full-Stack Dev | Freelancer | 100x Devs  | Turbin3 Q2 Builder's Cohort
 🚀 Web, Systems & Blockchain  
 
 ⚡ Notable:  [Vault-View](https://github.com/0xRajvardhan/VaultView) | [DePIN-Uptime](https://github.com/0xRajvardhan/DePIN-Uptime) | [Transaction App](https://github.com/0xRajvardhan/transaction-App)  
